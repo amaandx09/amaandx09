@@ -1,10 +1,10 @@
-# Hi there 👋, I'm Amanullah Azad
+# Hi there I'm Amanullah Azad
 
-### 💻 Full Stack Developer
+### Full Stack Developer
 
 I'm a Full Stack Developer specializing in **React, Next.js, Django, FastAPI, and React Native**. I'm passionate about building scalable, high-performance web and mobile applications with exceptional user experiences.
 
-## 🚀 Tech Stack
+## Tech Stack
 
 ### Frontend
 
@@ -34,12 +34,12 @@ I'm a Full Stack Developer specializing in **React, Next.js, Django, FastAPI, an
 * Linux
 * Docker
 
-## 🌱 Currently Exploring
+## Currently Exploring
 
 * System Design
 * Cloud Architecture
 * Performance Optimization
 
-## ⚡ Fun Fact
+## Fun Fact
 
 I enjoy turning ideas into scalable and user-friendly digital products.
